@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_Vito"
+
+generations:
+  - name: "W639"
+    start_year: 2003
+    end_year: 2014
+    description: "The passenger version of the second-generation Vito, with CDI diesels and the 3.5 L V6."
